@@ -1,4 +1,5 @@
 
+
 jQuery Scroll Path
 ==================
 **NOTE: I am no longer maintaining this project. If anyone is interested in resurrecting this, please contact me on Twitter ([@JoelBesada](https://twitter.com/joelbesada)) or send an email to the address found on my GitHub profile.** 
